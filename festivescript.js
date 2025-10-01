@@ -14,3 +14,4 @@ function display(sectionId) {
         targetSection.classList.add('active');
     }
 }
+
